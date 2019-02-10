@@ -4,6 +4,7 @@ Restful CRUD API with Node.js, Express and MongoDB
 I created Data Base in mongoDB called Pruducts, and a products collection in it with the Schema :
 
 {
+
 name: String,
 
 price: Number,
